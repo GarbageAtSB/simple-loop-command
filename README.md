@@ -1,6 +1,8 @@
 # Simple Loop Command
 This is a simple plugin that adds a command that loops other commands a certain amount of times with a specific delay. Inspired by the version of this command that Hypixel staff use, visible in this video by the former admin Minikloon. It should also be noted that the commands can be ran not just by players, but by any command executor, including the console and command blocks.
 
+Developed for 1.21.11, tested succesfully in 26.1. It should probably work in most modern versions because of its simplicity, but I can't be arsed testing them all.
+
 
 
 
