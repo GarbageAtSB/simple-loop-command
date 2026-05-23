@@ -20,4 +20,4 @@ loop.use - Allows the use of both commands.
 
 
 # DOWNLOAD
-You can download this plugin through the SpigotMC website or from the Releases tab
+You can download this plugin through the SpigotMC website or from the [Releases tab](https://github.com/GarbageAtSB/simple-loop-command/releases/latest)
