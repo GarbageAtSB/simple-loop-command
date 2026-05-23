@@ -1,0 +1,22 @@
+name: loopCommand
+description: 'A command that loops other commands a certain amount of times and with a certain delay.'
+version: '1.0'
+
+main: me.garbageatsb.loopCommand.LoopPlugin
+api-version: '1.21'
+
+authors: [ GarbageAtSB ]
+
+commands:
+  loop:
+    description: 'Loops a command a specified amount of times with a specified delay'
+    usage: '/loop <amount> [<delay>] <command>'
+  stoploop:
+    description: 'Stops an active loop.'
+    usage: '/stoploop'
+
+permissions:
+  loop.use:
+    description: Allows usage of the loop and stoploop commands.
+    default: op
+
